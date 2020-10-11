@@ -1,0 +1,14 @@
+body{
+  background-color: #011627;
+  color: #fdfffc;
+  text-align: center;
+}
+input{
+  width: 200px;
+}
+#sub{
+  width: 150px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 20px;
+}
